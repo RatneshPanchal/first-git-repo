@@ -1,0 +1,9 @@
+This is second file
+
+Another line
+
+<<<<<<< HEAD
+Hello
+=======
+World
+>>>>>>> Testing conflict
